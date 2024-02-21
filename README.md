@@ -1,2 +1,4 @@
-# Platformer Cat Website
-This is the Platformer Cat website. It holds version archives and variables that's used by the game launcher.
+# Platformer Cat
+![](/images/platformerCatIcon.png)<br />
+Welcome to Platformer Cat's website. This website is still in development<br />
+To view the version archive, [click here.](/docs/versionarchive/)
