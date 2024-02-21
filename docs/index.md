@@ -1,1 +1,1 @@
-To view the version archive, [click here.](/docs/versionarchive/)
+To view the version archive, [click here.](/platformercat/docs/versionarchive/)
